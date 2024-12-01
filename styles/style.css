@@ -1,0 +1,19 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e4e4e4;
+    text-align: center;
+}
+
+h1 {
+    font-size: 70px;
+}
+
+.logo {
+    width: 200px;
+}
+
+.gallery-image {
+    width: 300px;
+    box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.2);
+}
